@@ -1,4 +1,4 @@
-resource "aws_iam_policy" "my_policy" {
+/*resource "aws_iam_policy" "my_policy" {
   name        = "my_policy"
   description = "A test policy"
   
@@ -17,5 +17,5 @@ resource "aws_iam_policy" "my_policy" {
       },
     ]
   })
-}
+}*/
 
